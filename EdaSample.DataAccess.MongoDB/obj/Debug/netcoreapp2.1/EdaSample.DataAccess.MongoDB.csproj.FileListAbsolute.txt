@@ -1,0 +1,12 @@
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\bin\Debug\netcoreapp2.1\EdaSample.DataAccess.MongoDB.deps.json
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\bin\Debug\netcoreapp2.1\EdaSample.DataAccess.MongoDB.dll
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\bin\Debug\netcoreapp2.1\EdaSample.DataAccess.MongoDB.pdb
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\bin\Debug\netcoreapp2.1\EdaSample.Common.dll
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\bin\Debug\netcoreapp2.1\EdaSample.Common.pdb
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\obj\Debug\netcoreapp2.1\EdaSample.DataAccess.MongoDB.csprojAssemblyReference.cache
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\obj\Debug\netcoreapp2.1\EdaSample.DataAccess.MongoDB.csproj.CoreCompileInputs.cache
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\obj\Debug\netcoreapp2.1\EdaSample.DataAccess.MongoDB.AssemblyInfoInputs.cache
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\obj\Debug\netcoreapp2.1\EdaSample.DataAccess.MongoDB.AssemblyInfo.cs
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\obj\Debug\netcoreapp2.1\EdaSample.DataAccess.MongoDB.csproj.CopyComplete
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\obj\Debug\netcoreapp2.1\EdaSample.DataAccess.MongoDB.dll
+E:\dk\EventStudy\edasample-master\src\services\EdaSample.DataAccess.MongoDB\obj\Debug\netcoreapp2.1\EdaSample.DataAccess.MongoDB.pdb
